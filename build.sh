@@ -1,1 +1,1 @@
-python3 src/main.py "/bootdevStaticWebpage/"
+python3 src/main.py "/bootdevStaticWebpage/docs"
